@@ -1,5 +1,5 @@
 # Plantilla core para pagina web Profecional
-###### Creación de una página web para un Consultorio.
+###### Creación de una página web para un Negocio.
 
 ## Descripción.
 Se crea la plantilla base para tomar de referencia en proyectos de este tipo. La idea es tener la plantilla y hacer adecuaciones a la necesidad de cada cliente para que el esfuerzo sea menor en modificar. Se plantea dejar todas las secciones con una base estándar y el modificado, agregado, eliminado sea de una forma sencilla por medio de "Módulos".

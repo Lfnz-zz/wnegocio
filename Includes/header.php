@@ -10,3 +10,7 @@
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons"rel="stylesheet">
     </head>
     <body>
+        <div class="jumbotron" >
+            <h1>Web Negocio</h1>
+            <p>Esta es una plantilla para una pagina de negocio</p>
+        </div>
